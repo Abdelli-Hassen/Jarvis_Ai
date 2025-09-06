@@ -1,0 +1,25 @@
+# Python virtual environment
+Include/
+Lib/
+Scripts/
+share/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Models (large files, downloaded at runtime)
+models/
+
+# Temporary audio files
+*.wav
+*.mp3
+
+# Logs (optional if you add logging later)
+logs/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
