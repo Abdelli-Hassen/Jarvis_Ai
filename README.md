@@ -1,4 +1,4 @@
-#Jarvis – Offline Personal Assistant
+Jarvis – Offline Personal Assistant
 
 Jarvis is an offline, local personal assistant written in Python. It uses:
 
